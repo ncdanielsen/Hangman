@@ -18,7 +18,6 @@ namespace Hangman
             try
             {
                 StartGame();
-                //throw new Exception("Test");
                 PlayGame();
                 EndGame();
             }
